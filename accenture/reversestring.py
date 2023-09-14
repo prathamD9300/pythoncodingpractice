@@ -1,0 +1,2 @@
+a = 'pratham'
+print(a[:])
